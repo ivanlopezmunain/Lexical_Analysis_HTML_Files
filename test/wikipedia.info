@@ -1,0 +1,340 @@
+FILE: ./test/wikipedia.html
+TITLE: Wikipedia
+TAGSTATS:
+	a 	320
+	bdi 	37
+	body 	1
+	button 	2
+	div 	86
+	fieldset	1
+	form 	1
+	h1	1
+	h2	5
+	head	1
+	hr	1
+	html 	1
+	i 	4
+	img 	1
+	input 	4
+	label 	1
+	li	291
+	li 	4
+	link 	4
+	meta 	3
+	option 	61
+	p 	1
+	script	2
+	script 	2
+	select 	1
+	small	10
+	small 	3
+	span	9
+	span 	47
+	strong	10
+	strong 	2
+	style	3
+	title	1
+	ul	8
+LINKS: 
+	@³Ë:å
+	 ¬Ë:å
+	//en.wikipedia.org/
+	//es.wikipedia.org/
+	//ja.wikipedia.org/
+	//de.wikipedia.org/
+	//ru.wikipedia.org/
+	//fr.wikipedia.org/
+	//it.wikipedia.org/
+	//zh.wikipedia.org/
+	//pt.wikipedia.org/
+	//pl.wikipedia.org/
+	//nl.wikipedia.org/
+	//ceb.wikipedia.org/
+	//sv.wikipedia.org/
+	//vi.wikipedia.org/
+	//war.wikipedia.org/
+	//ar.wikipedia.org/
+	//az.wikipedia.org/
+	//bg.wikipedia.org/
+	//zh-min-nan.wikipedia.org/
+	//be.wikipedia.org/
+	//ca.wikipedia.org/
+	//cs.wikipedia.org/
+	//da.wikipedia.org/
+	//et.wikipedia.org/
+	//el.wikipedia.org/
+	//eo.wikipedia.org/
+	//eu.wikipedia.org/
+	//fa.wikipedia.org/
+	//gl.wikipedia.org/
+	//hy.wikipedia.org/
+	//hi.wikipedia.org/
+	//hr.wikipedia.org/
+	//id.wikipedia.org/
+	//he.wikipedia.org/
+	//ka.wikipedia.org/
+	//la.wikipedia.org/
+	//lt.wikipedia.org/
+	//hu.wikipedia.org/
+	//ms.wikipedia.org/
+	//min.wikipedia.org/
+	//no.wikipedia.org/
+	//nn.wikipedia.org/
+	//ce.wikipedia.org/
+	//uz.wikipedia.org/
+	//kk.wikipedia.org/
+	//ro.wikipedia.org/
+	//cy.wikipedia.org/
+	//simple.wikipedia.org/
+	//sk.wikipedia.org/
+	//sl.wikipedia.org/
+	//sr.wikipedia.org/
+	//sh.wikipedia.org/
+	//fi.wikipedia.org/
+	//ta.wikipedia.org/
+	//th.wikipedia.org/
+	//tr.wikipedia.org/
+	//azb.wikipedia.org/
+	//uk.wikipedia.org/
+	//ur.wikipedia.org/
+	//vo.wikipedia.org/
+	//ko.wikipedia.org/
+	//af.wikipedia.org/
+	//als.wikipedia.org/
+	//am.wikipedia.org/
+	//an.wikipedia.org/
+	//ast.wikipedia.org/
+	//bn.wikipedia.org/
+	//map-bms.wikipedia.org/
+	//ba.wikipedia.org/
+	//be-tarask.wikipedia.org/
+	//bpy.wikipedia.org/
+	//bar.wikipedia.org/
+	//bs.wikipedia.org/
+	//br.wikipedia.org/
+	//cv.wikipedia.org/
+	//eml.wikipedia.org/
+	//fo.wikipedia.org/
+	//fy.wikipedia.org/
+	//ga.wikipedia.org/
+	//gd.wikipedia.org/
+	//gu.wikipedia.org/
+	//hsb.wikipedia.org/
+	//io.wikipedia.org/
+	//ilo.wikipedia.org/
+	//ia.wikipedia.org/
+	//os.wikipedia.org/
+	//is.wikipedia.org/
+	//jv.wikipedia.org/
+	//kn.wikipedia.org/
+	//ht.wikipedia.org/
+	//ku.wikipedia.org/
+	//ckb.wikipedia.org/
+	//ky.wikipedia.org/
+	//mrj.wikipedia.org/
+	//lv.wikipedia.org/
+	//lb.wikipedia.org/
+	//li.wikipedia.org/
+	//lmo.wikipedia.org/
+	//mai.wikipedia.org/
+	//mk.wikipedia.org/
+	//mg.wikipedia.org/
+	//ml.wikipedia.org/
+	//mr.wikipedia.org/
+	//xmf.wikipedia.org/
+	//arz.wikipedia.org/
+	//mzn.wikipedia.org/
+	//cdo.wikipedia.org/
+	//mn.wikipedia.org/
+	//my.wikipedia.org/
+	//new.wikipedia.org/
+	//ne.wikipedia.org/
+	//nap.wikipedia.org/
+	//oc.wikipedia.org/
+	//mhr.wikipedia.org/
+	//or.wikipedia.org/
+	//pa.wikipedia.org/
+	//pnb.wikipedia.org/
+	//pms.wikipedia.org/
+	//nds.wikipedia.org/
+	//qu.wikipedia.org/
+	//sa.wikipedia.org/
+	//sah.wikipedia.org/
+	//sco.wikipedia.org/
+	//sq.wikipedia.org/
+	//scn.wikipedia.org/
+	//si.wikipedia.org/
+	//sd.wikipedia.org/
+	//su.wikipedia.org/
+	//sw.wikipedia.org/
+	//tl.wikipedia.org/
+	//tt.wikipedia.org/
+	//te.wikipedia.org/
+	//tg.wikipedia.org/
+	//bug.wikipedia.org/
+	//vec.wikipedia.org/
+	//wa.wikipedia.org/
+	//wuu.wikipedia.org/
+	//yi.wikipedia.org/
+	//yo.wikipedia.org/
+	//zh-yue.wikipedia.org/
+	//bat-smg.wikipedia.org/
+	//ace.wikipedia.org/
+	//kbd.wikipedia.org/
+	//ang.wikipedia.org/
+	//ab.wikipedia.org/
+	//roa-rup.wikipedia.org/
+	//frp.wikipedia.org/
+	//arc.wikipedia.org/
+	//gn.wikipedia.org/
+	//av.wikipedia.org/
+	//ay.wikipedia.org/
+	//bjn.wikipedia.org/
+	//bh.wikipedia.org/
+	//bcl.wikipedia.org/
+	//bi.wikipedia.org/
+	//bo.wikipedia.org/
+	//bxr.wikipedia.org/
+	//cbk-zam.wikipedia.org/
+	//co.wikipedia.org/
+	//za.wikipedia.org/
+	//se.wikipedia.org/
+	//pdc.wikipedia.org/
+	//dv.wikipedia.org/
+	//nv.wikipedia.org/
+	//dsb.wikipedia.org/
+	//myv.wikipedia.org/
+	//ext.wikipedia.org/
+	//hif.wikipedia.org/
+	//fur.wikipedia.org/
+	//gv.wikipedia.org/
+	//gag.wikipedia.org/
+	//ki.wikipedia.org/
+	//glk.wikipedia.org/
+	//gan.wikipedia.org/
+	//hak.wikipedia.org/
+	//xal.wikipedia.org/
+	//ha.wikipedia.org/
+	//haw.wikipedia.org/
+	//ig.wikipedia.org/
+	//ie.wikipedia.org/
+	//kl.wikipedia.org/
+	//pam.wikipedia.org/
+	//csb.wikipedia.org/
+	//kw.wikipedia.org/
+	//km.wikipedia.org/
+	//rw.wikipedia.org/
+	//kv.wikipedia.org/
+	//kg.wikipedia.org/
+	//gom.wikipedia.org/
+	//lo.wikipedia.org/
+	//lad.wikipedia.org/
+	//lbe.wikipedia.org/
+	//lez.wikipedia.org/
+	//ln.wikipedia.org/
+	//jbo.wikipedia.org/
+	//lrc.wikipedia.org/
+	//lg.wikipedia.org/
+	//lij.wikipedia.org/
+	//mt.wikipedia.org/
+	//zh-classical.wikipedia.org/
+	//ty.wikipedia.org/
+	//mi.wikipedia.org/
+	//mwl.wikipedia.org/
+	//mdf.wikipedia.org/
+	//nah.wikipedia.org/
+	//na.wikipedia.org/
+	//nds-nl.wikipedia.org/
+	//frr.wikipedia.org/
+	//nrm.wikipedia.org/
+	//nov.wikipedia.org/
+	//as.wikipedia.org/
+	//pi.wikipedia.org/
+	//pag.wikipedia.org/
+	//pap.wikipedia.org/
+	//ps.wikipedia.org/
+	//koi.wikipedia.org/
+	//pfl.wikipedia.org/
+	//pcd.wikipedia.org/
+	//krc.wikipedia.org/
+	//kaa.wikipedia.org/
+	//crh.wikipedia.org/
+	//ksh.wikipedia.org/
+	//rm.wikipedia.org/
+	//rue.wikipedia.org/
+	//sc.wikipedia.org/
+	//stq.wikipedia.org/
+	//nso.wikipedia.org/
+	//sn.wikipedia.org/
+	//szl.wikipedia.org/
+	//so.wikipedia.org/
+	//srn.wikipedia.org/
+	//kab.wikipedia.org/
+	//roa-tara.wikipedia.org/
+	//tet.wikipedia.org/
+	//tpi.wikipedia.org/
+	//to.wikipedia.org/
+	//tk.wikipedia.org/
+	//tyv.wikipedia.org/
+	//udm.wikipedia.org/
+	//ug.wikipedia.org/
+	//vep.wikipedia.org/
+	//fiu-vro.wikipedia.org/
+	//vls.wikipedia.org/
+	//wo.wikipedia.org/
+	//diq.wikipedia.org/
+	//zea.wikipedia.org/
+	//zu.wikipedia.org/
+	//ak.wikipedia.org/
+	//bm.wikipedia.org/
+	//ch.wikipedia.org/
+	//ny.wikipedia.org/
+	//ee.wikipedia.org/
+	//ff.wikipedia.org/
+	//got.wikipedia.org/
+	//iu.wikipedia.org/
+	//ik.wikipedia.org/
+	//ks.wikipedia.org/
+	//ltg.wikipedia.org/
+	//fj.wikipedia.org/
+	//cr.wikipedia.org/
+	//pih.wikipedia.org/
+	//om.wikipedia.org/
+	//pnt.wikipedia.org/
+	//dz.wikipedia.org/
+	//rmy.wikipedia.org/
+	//rn.wikipedia.org/
+	//sm.wikipedia.org/
+	//sg.wikipedia.org/
+	//st.wikipedia.org/
+	//tn.wikipedia.org/
+	//cu.wikipedia.org/
+	//ss.wikipedia.org/
+	//ti.wikipedia.org/
+	//chr.wikipedia.org/
+	//chy.wikipedia.org/
+	//ve.wikipedia.org/
+	//ts.wikipedia.org/
+	//tum.wikipedia.org/
+	//tw.wikipedia.org/
+	//xh.wikipedia.org/
+	//meta.wikimedia.org/wiki/List_o//de.wikipedia.org/wiki/Wikipedi//meta.wikimedia.org/wiki/Liste_//pl.wikipedia.org/wiki/Wikipedi//ja.wikipedia.org/wiki/Wikipedi//meta.wikimedia.org/wiki/Lista_//zh.wikipedia.org/wiki/Wikipedi//ru.wikipedia.org/wiki/%D0%92%D//eo.wikipedia.org/wiki/Vikipedi//meta.wikimedia.org/wiki/%EC%9C//vi.wikipedia.org/wiki/Wikipedi//wikimediafoundation.org/
+	//de.wikipedia.org/wiki/Wikipedi//meta.wikimedia.org/wiki/Liste_//pl.wikipedia.org/wiki/Wikipedi//ja.wikipedia.org/wiki/Wikipedi//meta.wikimedia.org/wiki/Lista_//zh.wikipedia.org/wiki/Wikipedi//ru.wikipedia.org/wiki/%D0%92%D//eo.wikipedia.org/wiki/Vikipedi//meta.wikimedia.org/wiki/%EC%9C//vi.wikipedia.org/wiki/Wikipedi//wikimediafoundation.org/
+	//meta.wikimedia.org/wiki/Liste_//pl.wikipedia.org/wiki/Wikipedi//ja.wikipedia.org/wiki/Wikipedi//meta.wikimedia.org/wiki/Lista_//zh.wikipedia.org/wiki/Wikipedi//ru.wikipedia.org/wiki/%D0%92%D//eo.wikipedia.org/wiki/Vikipedi//meta.wikimedia.org/wiki/%EC%9C//vi.wikipedia.org/wiki/Wikipedi//wikimediafoundation.org/
+	//pl.wikipedia.org/wiki/Wikipedi//ja.wikipedia.org/wiki/Wikipedi//meta.wikimedia.org/wiki/Lista_//zh.wikipedia.org/wiki/Wikipedi//ru.wikipedia.org/wiki/%D0%92%D//eo.wikipedia.org/wiki/Vikipedi//meta.wikimedia.org/wiki/%EC%9C//vi.wikipedia.org/wiki/Wikipedi//wikimediafoundation.org/
+	//ja.wikipedia.org/wiki/Wikipedi//meta.wikimedia.org/wiki/Lista_//zh.wikipedia.org/wiki/Wikipedi//ru.wikipedia.org/wiki/%D0%92%D//eo.wikipedia.org/wiki/Vikipedi//meta.wikimedia.org/wiki/%EC%9C//vi.wikipedia.org/wiki/Wikipedi//wikimediafoundation.org/
+	//meta.wikimedia.org/wiki/Lista_//zh.wikipedia.org/wiki/Wikipedi//ru.wikipedia.org/wiki/%D0%92%D//eo.wikipedia.org/wiki/Vikipedi//meta.wikimedia.org/wiki/%EC%9C//vi.wikipedia.org/wiki/Wikipedi//wikimediafoundation.org/
+	//zh.wikipedia.org/wiki/Wikipedi//ru.wikipedia.org/wiki/%D0%92%D//eo.wikipedia.org/wiki/Vikipedi//meta.wikimedia.org/wiki/%EC%9C//vi.wikipedia.org/wiki/Wikipedi//wikimediafoundation.org/
+	//ru.wikipedia.org/wiki/%D0%92%D//eo.wikipedia.org/wiki/Vikipedi//meta.wikimedia.org/wiki/%EC%9C//vi.wikipedia.org/wiki/Wikipedi//wikimediafoundation.org/
+	//eo.wikipedia.org/wiki/Vikipedi//meta.wikimedia.org/wiki/%EC%9C//vi.wikipedia.org/wiki/Wikipedi//wikimediafoundation.org/
+	//meta.wikimedia.org/wiki/%EC%9C//vi.wikipedia.org/wiki/Wikipedi//wikimediafoundation.org/
+	//vi.wikipedia.org/wiki/Wikipedi//wikimediafoundation.org/
+	//wikimediafoundation.org/
+	//itunes.apple.com/app/apple-sto//play.google.com/store/apps/det//en.wikipedia.org/wiki/List_of_https://creativecommons.org/lice//meta.wikimedia.org/wiki/Terms_//meta.wikimedia.org/wiki/Privacy_policy
+	//play.google.com/store/apps/det//en.wikipedia.org/wiki/List_of_https://creativecommons.org/lice//meta.wikimedia.org/wiki/Terms_//meta.wikimedia.org/wiki/Privacy_policy
+	//en.wikipedia.org/wiki/List_of_https://creativecommons.org/lice//meta.wikimedia.org/wiki/Terms_//meta.wikimedia.org/wiki/Privacy_policy
+	https://creativecommons.org/lice//meta.wikimedia.org/wiki/Terms_//meta.wikimedia.org/wiki/Privacy_policy
+	//meta.wikimedia.org/wiki/Terms_//meta.wikimedia.org/wiki/Privacy_policy
+	//meta.wikimedia.org/wiki/Privacy_policy
+IMAGES: 
+	ogo-v2.png
